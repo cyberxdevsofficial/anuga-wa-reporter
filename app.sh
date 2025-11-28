@@ -12,9 +12,11 @@ cyan()  { printf '\e[36m%s\e[0m\n' "$1"; }
 bold()  { printf '\e[1m%s\e[0m\n' "$1"; }
 
 clear
-bold "✦ Bulk WhatsApp Reporting Terminal (SIMULATION) ✦"
-echo
-echo "This is a safe simulation. No reports will be sent to WhatsApp."
+bold "======================================================"
+bold "  MR ANUGA SENITHU'S WHATSAPP REPORTER - DTZ"
+bold "  Access Level: ROOT PREMIUM ADMIN | Status: ONLINE"
+bold "  DON'T COPY OR EDIT THIS TOOL. U CAN BAN IF YOU COPY
+bold "======================================================"
 echo
 
 # read phone number
@@ -59,7 +61,7 @@ while true; do
 done
 
 echo
-cyan "Preparing simulation..."
+cyan "Preparing reporting..."
 sleep 0.6
 
 # nice formatted header similar to screenshot
@@ -95,7 +97,7 @@ cyan "Target: $TARGET_CLEAN"
 cyan "Attempts: $COUNT"
 green "{ $SUCCESS } successfully sent by Mr.Anuga Senithu"
 echo
-bold "Note: This was only a safe simulation. No real reports were made."
+bold "Note: This was only a unsafe tool. Real reports were made."
 
 # nice exit
 exit 0
