@@ -15,9 +15,7 @@ clear
 bold "======================================================"
 bold "  MR ANUGA SENITHU'S WHATSAPP REPORTER - DTZ"
 bold "  Access Level: ROOT PREMIUM ADMIN | Status: ONLINE"
-bold "  DON'T COPY OR EDIT THIS TOOL. U CAN BAN IF YOU COPY
 bold "======================================================"
-echo
 
 # read phone number
 while true; do
